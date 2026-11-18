@@ -13,7 +13,7 @@
 USBHIDKeyboard Keyboard;
 
 // =========================
-// RGB LED
+// RGB LED for lighting
 // =========================
 #define RGB_LED_PIN 48
 
